@@ -1,1 +1,1 @@
-# -PT-BR-LandingPage_TECH-SHOP
+# (PT-BR) Landing Page - TECH-SHOP
